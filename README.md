@@ -5,11 +5,10 @@ Sou **Designer Gráfico** apaixonado por criatividade, comunicação visual e po
 
 ### 👨‍🎨 Sobre mim
 
-- 🏢 Atualmente estou a trabalhar em/com **[Nome do teu projeto ou empresa atual]**
-- 🌱 No momento estou a aprofundar os meus conhecimentos em **[ex: UI/UX Design, Web Design, Animação]**
-- 👯 Estou à procura de colaborar em **[Projetos criativos, design de interfaces, criação de identidades visuais]**
-- 💬 Pergunta-me sobre **[Design de Identidade Visual, Tipografia, Ilustração]**
-- ⚡ Curiosidade: **[Um hobby ou facto divertido sobre ti]**
+- 🏢 Atualmente estou a trabalhar em/com freelancer
+- 🌱 No momento estou a aprofundar os meus conhecimentos em markintg
+- 👯 Estou à procura de colaborar em empresas
+- ⚡ Curiosidade: sou alteta
 
 ---
 
